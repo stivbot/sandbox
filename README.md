@@ -5,7 +5,7 @@ Welcome to the StivBot Sandbox repository! **This repository serves as a playgro
 For more information about our business planning software and to access additional features, please visit our [website](https://www.stivbot.com/) or the [StivBot repository](https://github.com/stivbot/stivbot).
 
 > **Warning**
-> This repository is public. You you want Stiv to assist you in private, you need to download StivBot from the [marketplace](https://github.com/marketplace/stivbot/) and install it to a private repo.
+> This repository is public. If you want Stiv to assist you in private, you need to download StivBot from the [marketplace](https://github.com/marketplace/stivbot/) and install it to a private repo.
 
 ## How it Works
 
